@@ -3,3 +3,6 @@ body {background-color: cadetblue;}
 .smaller-image{
     width: 50px;
 }
+.highline {background-color: darkgoldenrod;}
+.bg-yellow:before {
+    background-color: yellow;}
