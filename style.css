@@ -1,6 +1,10 @@
-.blue-text {color: blue;}
-body {background-color: cadetblue;}
-.smaller-image{
+.blue-text {color:blue;}
+body
+{background-color: cyan; 
+    font-family:monospace;
+}
+h2 {color: orangered}
+.smaller-image {
     width: 50px;
 }
 .highline {background-color: darkgoldenrod;}
